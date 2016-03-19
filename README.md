@@ -1,5 +1,6 @@
 Nazov:             tema bc. prace
 
 Datum odovzdania:  N/A
-stav teorie:      100%
-stav praktickej:  50%
+stav teorie:      110%
+stav praktickej:  150%
+patrocnica splnena :D
