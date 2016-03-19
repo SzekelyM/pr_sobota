@@ -1,2 +1,2 @@
 Nazov:             tema bc. prace
-Datum odovzdania:  :D raz bude
+Datum odovzdania:  N/A
